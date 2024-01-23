@@ -15,6 +15,12 @@ $ pwd
 .../cs50_ai_tictactoe
 ```
 
+1. Install the required Python package (pygame) for the project:
+
+   ```sh
+   pip3 install -r requirements.txt
+   ```
+   
 1. Run the application:
 
    ```sh
